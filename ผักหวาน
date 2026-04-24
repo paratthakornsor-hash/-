@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ความรู้ผักหวาน</title>
+<style>
+body {
+font-family: "Prompt", sans-serif;
+margin: 0;
+background: #f4f9f4;
+color: #333;
+}
+header {
+background: #2e7d32;
+color: white;
+padding: 20px;
+text-align: center;
+}
+nav {
+background: #388e3c;
+padding: 10px;
+text-align: center;
+}
+nav a {
+color: white;
+margin: 0 10px;
+text-decoration: none;
+font-weight: bold;
+}
+nav a:hover {
+text-decoration: underline;
+}
+.container {
+padding: 20px;
+max-width: 900px;
+margin: auto;
+}
+section {
+margin-bottom: 40px;
+background: white;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h2 {
+color: #2e7d32;
+}
+footer {
+background: #2e7d32;
+color: white;
+text-align: center;
+padding: 15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>🌿 เว็บไซต์ความรู้ผักหวาน</h1>
+<p>แหล่งรวมข้อมูลผักหวานครบทุกด้าน</p>
+</header>
+
+<nav>
+<a href="#about">ข้อมูลทั่วไป</a>
+<a href="#types">ประเภท</a>
+<a href="#planting">การปลูก</a>
+<a href="#pests">ศัตรูพืช</a>
+<a href="#harvest">การเก็บเกี่ยว</a>
+<a href="#nutrition">โภชนาการ</a>
+</nav>
+
+<div class="container">
+
+<section id="about">
+<h2>ข้อมูลทั่วไป</h2>
+<p>ผักหวานเป็นพืชพื้นบ้านของไทย มีชื่อวิทยาศาสตร์ว่า <b>Melientha suavis</b> นิยมรับประทานยอดอ่อนที่มีรสหวานมัน พบได้ในป่าเบญจพรรณ และสามารถปลูกเชิงเศรษฐกิจได้</p>
+</section>
+
+<section id="types">
+<h2>ประเภทของผักหวาน</h2>
+<p>ผักหวานแบ่งเป็น 2 ประเภทหลัก คือ ผักหวานป่า ซึ่งมีรสชาติหวานและราคาสูง และผักหวานบ้านที่ปลูกง่ายกว่าแต่รสชาติอ่อนกว่า</p>
+</section>
+
+<section id="planting">
+<h2>การปลูก</h2>
+<p>ผักหวานต้องการดินร่วน ระบายน้ำดี และต้องปลูกใต้ร่มเงา โดยนิยมใช้ต้นแคหรือมะขามเป็นพืชพี่เลี้ยง การให้น้ำควรสม่ำเสมอแต่ไม่แฉะ</p>
+</section>
+
+<section id="pests">
+<h2>โรคและศัตรูพืช</h2>
+<p>ศัตรูที่พบได้ ได้แก่ หนอนกินใบ เพลี้ย และเชื้อรา ควรใช้วิธีชีวภาพในการควบคุมและดูแลแปลงให้สะอาด</p>
+</section>
+
+<section id="harvest">
+<h2>การเก็บเกี่ยว</h2>
+<p>สามารถเก็บยอดได้เมื่ออายุประมาณ 2–3 ปี โดยควรใช้วิธีเด็ดอย่างระมัดระวังเพื่อไม่ให้ต้นเสียหาย</p>
+</section>
+
+<section id="nutrition">
+<h2>คุณค่าทางโภชนาการ</h2>
+<p>ผักหวานมีวิตามิน A และ C สูง ช่วยบำรุงสายตา เสริมภูมิคุ้มกัน และช่วยระบบขับถ่าย</p>
+</section>
+
+</div>
+
+<footer>
+<p>© 2026 เว็บไซต์ผักหวาน | จัดทำเพื่อการเรียนรู้</p>
+</footer>
+
+</body>
+</html>
